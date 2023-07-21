@@ -34,7 +34,7 @@ typewrite-text: I am a Game Developer
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
-#author_work_experiences:
+author_work_experiences:
             - company_name: Google
               company_logo: google.png
               company_url: https://google.com
@@ -71,16 +71,16 @@ author_project_details:
                 visibility: true
 
 # social links
-#twitter_username: johndoe
+twitter_username: johndoe
 github_username:  AbelkAntonny
 facebook_username: abelkantony
 linkedin_username: abel-antony
-#behance_username: johndoe
+behance_username: johndoe
 instagram_username: mr.abelantony
-#medium_username: johndoe
-#telegram_username: johndoe
-#dribbble_username: johndoe
-#flickr_username: johndoe
+medium_username: johndoe
+telegram_username: johndoe
+dribbble_username: johndoe
+flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
