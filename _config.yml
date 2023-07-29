@@ -35,12 +35,13 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: false
+            - company_name: Reliance
+              company_logo: reliance.png
+              company_url: https://relianceretail.com/
+              designation: Customer Service Associate
+              description: Customer interaction with sales of wide variety of
+apparels .
+              visibility: true
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
