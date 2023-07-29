@@ -41,7 +41,7 @@ author_work_experiences:
               designation: Customer Service Associate
               description: Customer interaction with sales of wide variety of
 apparels .
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
