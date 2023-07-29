@@ -37,7 +37,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 author_work_experiences:
             - company_name: Reliance
               company_logo: reliance.png
-              company_url: https://relianceretail.com/
+              #company_url: https://relianceretail.com/
               designation: Customer Service Associate
               description: Customer interaction with sales of wide variety of
 apparels .
