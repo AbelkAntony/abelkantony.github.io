@@ -59,10 +59,10 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: pong.png
+                project_title:    PONG GAME
+                project_description: Pong is one of the first computer games that ever created, this simple tennis like game features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain10 point, a player gets a point once the opponent misses a ball.
+                #project_url: https://gamershub.in
                 visibility: true
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
