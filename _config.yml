@@ -64,17 +64,17 @@ author_project_details:
                 project_description: Pong is one of the first computer games that ever created, this simple tennis like game features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain10 point, a player gets a point once the opponent misses a ball.
                 #project_url: https://gamershub.in
                 visibility: true
-              - project_thumbnail: hack4r.PNG
+              - project_thumbnail: escape.png
                 project_title: ESCAPE
                 project_description: Its a simple game . Hexagon is spawn with different angle and one side of the hexagon is open. Player need to move the ball without touching the sides of the hecagon
                 #project_url: https://hack4r.com
                 visibility: true
-              - project_thumbnail: hack4r.PNG
+              - project_thumbnail: asteroids.png
                 project_title: ASTEROID
                 project_description: Asteroids is a space-themed multidirectional shooter game .The object of the game is to shoot and destroy the asteroids and saucers, while not colliding with either, or being hit by the saucers
                 #project_url: https://hack4r.com
                 visibility: true
-              - project_thumbnail: hack4r.PNG
+              - project_thumbnail: brickbreaker.png 
                 project_title: BRICK BREAKER
                 project_description: Brick Breaker (platformer) is a Breakout clone which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle may move horizontally
                 #project_url: https://hack4r.com
