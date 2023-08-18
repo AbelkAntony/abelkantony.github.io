@@ -79,6 +79,11 @@ author_project_details:
                 project_description: Brick Breaker (platformer) is a Breakout clone which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle may move horizontally
                 #project_url: https://hack4r.com
                 visibility: true
+              - project_thumbnail: brickbreaker.png 
+                project_title: ALWAYS DOWN
+                project_description: This is a infinity play game that player can earn points by Destroying obstacles
+                #project_url: https://hack4r.com
+                visibility: true
 
 # social links
 #twitter_username: johndoe
