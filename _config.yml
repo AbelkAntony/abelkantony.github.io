@@ -51,11 +51,17 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: false
+                college_name: VIDYADHIRAJA VIDYABHAVAN HIGHER SECONDARY SCHOOL
+                college_url: https://vidyadhirajavidyabhavanaluva.in/
+                college_degree: 12th Grade
+                #description: Bachelor of Technology
+                visibility: true
+              - college_logo: mit.png
+                college_name: VIDYADHIRAJA VIDYABHAVAN HIGHER SECONDARY SCHOOL
+                college_url: https://vidyadhirajavidyabhavanaluva.in/
+                college_degree: SSLC
+                #description: Bachelor of Technology
+                visibility: true
 
 # Projects
 author_project_details:
